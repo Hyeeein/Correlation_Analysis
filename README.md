@@ -1,4 +1,4 @@
-# Correlation Analysis (Search Keywords & On-line Shopping)
+# Search Keywords & On-line Shopping Correlation
 
 ### 2022-2학기 인천대학교 컴퓨터공학부 빅데이터입문 Term Project 💫
 
